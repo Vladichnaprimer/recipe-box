@@ -33,6 +33,8 @@ gem 'cocoon', '~> 1.2', '>= 1.2.9'
 
 gem 'paperclip', '~> 5.1'
 
+gem 'devise'
+
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
